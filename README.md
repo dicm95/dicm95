@@ -1,16 +1,21 @@
-## Hi there 👋
+## ¡Hola! Soy QA Engineer 👩‍💻
 
-<!--
-**dicm95/dicm95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **QA Engineer** apasionada por la automatización de pruebas y la mejora continua en la calidad del software. Me encanta explorar nuevas herramientas y metodologías para optimizar los procesos de testing.
 
-Here are some ideas to get you started:
+## 🚀 Lo que me apasiona
+- Automatización de pruebas UI, API y rendimiento
+- Optimización de flujos de calidad
+- Análisis de datos para detección de errores
+- Mejora contínua en procesos de desarrollo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologías y herramientas que uso
+- Python
+- JSON
+- Selenium
+- Postman
+- Git, GitHub
+- PostgreSQL, MySQL
+- Jira
+- DevTools
+
+¡Bienvenido a mi repositorio!🚀 
