@@ -18,4 +18,6 @@ Soy **QA Engineer** apasionada por la automatización de pruebas y la mejora con
 - Jira
 - DevTools
 
-¡Bienvenido a mi repositorio!🚀 
+[![My Skills](https://skillicons.dev/icons?i=py,js,selenium,postman,git,github,postgres,mysql,devto)](https://skillicons.dev)
+
+¡Bienvenido a mi repositorio! 🚀 
